@@ -15,7 +15,7 @@ Static site generator built with Python & OOP.
 
 <h3><a id="running-the-app">🚀 Running the app</a></h3>
 
-[Chmod](https://en.wikipedia.org/wiki/Chmod) main.sh & run it. This will generate a `/public` folder based on the markdown content in the `content` folder and serve it through python http server.
+[Chmod](https://en.wikipedia.org/wiki/Chmod) main.sh & run it. This will generate a `/public` folder based on the markdown content in the `content` folder and serve it through python http server. See the result on http://localhost:8888
 
 ```bash
 chmod +x ./main.sh
