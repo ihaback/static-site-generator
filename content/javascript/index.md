@@ -2,7 +2,7 @@
 
 [Back Home](/)
 
-![LOTR image artistmonkeys](/images/js.webp)
+![JS blog post cover image](/images/js.webp)
 
 In the fast-paced world of web development, JavaScript has established itself as a cornerstone. Its versatility and powerful capabilities have made it an essential tool for building dynamic and interactive web applications. However, the rapid evolution of JavaScript and its ecosystem has given rise to a phenomenon known as "JavaScript fatigue." In this post, we'll explore what JavaScript fatigue is, why it happens, and how developers can manage it effectively.
 
